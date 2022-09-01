@@ -10,7 +10,7 @@ import {
   position,
   textAlign,
   padding,
-  margin,
+
 } from 'styled-system';
 
 const Box = styled('div')(
@@ -24,7 +24,6 @@ const Box = styled('div')(
   position,
   textAlign,
   padding,
-  margin
 );
 
 export default Box;
